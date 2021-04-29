@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WasiPet</string>
+    <string name="facebook_app_id">1004125423291380</string> 
+    <string name="fb_login_protocol_scheme">fb1004125423291380</string>
+
+</resources>
